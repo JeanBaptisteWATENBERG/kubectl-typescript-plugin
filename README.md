@@ -4,7 +4,7 @@ The idea of this repository is to prototype the creation of kubectl
 plugin using typescript.
 
 It uses [pkg](https://github.com/vercel/pkg) to build cross platform executable
-binaries that can run on devices where no is not installed.
+binaries that can run on devices where node is not installed.
 
 ## Usage
 
